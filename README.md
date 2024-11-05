@@ -1,10 +1,5 @@
-Olá! Aqui é o Carlos. 
-Sou apaixonado por tecnologia, desenvolvimento e inovação. Aos 30 anos mudei totalmente o foco da minha carreira. Saí do Direito e fui para a área de IT, comecei a estudar e desenvolver projetos como freelancer. Busco aprimoramento contínuo tanto em tecnologias frontend quanto backend. 
 
-Atualmente, tenho me especializado em tecnologias low code, como a Power Platform da Microsoft, buscando sempre a máxima eficiência no desenvolvimento de soluções. 
-Sou eternamente um estudante, sempre acompanhando as novas tendências e me desafiando para ir além, com o compromisso de me tornar um desenvolvedor cada vez mais completo.
-
----- 
+----
 
 Hello! I'm Carlos.
 I'm passionate about technology, development, and innovation. At the age of 30, I completely shifted the focus of my career. I left Law and transitioned into the IT field, starting to study and develop projects as a freelancer. I am constantly seeking improvement in both frontend and backend technologies.
