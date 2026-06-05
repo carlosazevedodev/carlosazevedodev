@@ -1,11 +1,47 @@
+# Hi, I'm Carlos Azevedo
 
-----
+Technical Support Engineer with experience in troubleshooting, software quality analysis, APIs, cloud platforms, and AI evaluation projects.
 
-Hello! I'm Carlos.
-I'm passionate about technology, development, and innovation. At the age of 30, I completely shifted the focus of my career. I left Law and transitioned into the IT field, starting to study and develop projects as a freelancer. I am constantly seeking improvement in both frontend and backend technologies.
+## Areas of Interest
 
-Currently, I’ve been specializing in low-code technologies, such as Microsoft’s Power Platform, always aiming for maximum efficiency in solution development.
-I’m a lifelong learner, always keeping up with new trends and challenging myself to go further, with a commitment to becoming a more complete developer.
+* Software Quality
+* Test Validation
+* Root Cause Analysis
+* API Integrations
+* Python
+* JavaScript
+* SQL
+* AI Evaluation and LLM Assessment
 
-- 🔭 I have some solid knowledge on: JavaScript, PHP, C#. I am currently learning a little bit of node.js
-- You can find me on LinkedIn: https://www.linkedin.com/in/carlosmauricioazevedo
+## Featured Projects
+
+### API Troubleshooting Lab
+
+Real-world troubleshooting scenarios involving APIs, authentication, timeouts, and integration failures.
+
+### Test Gap Detector
+
+Examples where automated tests pass but fail to validate the actual business requirements.
+
+### SQL Root Cause Analysis
+
+Database investigation exercises focused on identifying incorrect queries and data inconsistencies.
+
+### LLM Evaluation Examples
+
+Practical examples of evaluating AI-generated outputs using structured quality criteria.
+
+## Currently Learning
+
+* Automated Testing
+* Test Design
+* Open Source Contribution Workflows
+* AI Model Evaluation
+
+## Professional Background
+
+* Former Civil and Contract Lawyer
+* Technical Support Engineer
+* AI Evaluation Contributor
+* Customer-Facing Technology Professional
+
